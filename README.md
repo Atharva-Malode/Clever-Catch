@@ -1,4 +1,4 @@
-# Phishing-Domain-Detection
+# Clever-Catch
 
 # Phishing Detection
 
